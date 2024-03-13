@@ -51,4 +51,35 @@ Key features include: 🛠️
 
      This script will extract text from objects detected in the webcam feed. 📄
 
+
+Sure, here are links for various text editors that will prompt the user to clone your Object Detection and OCR repository:
+
+For Visual Studio Code:
+```markdown
+[Open in Visual Studio Code](vscode://github.com/Rohan-Gautam/Object-Detection-and-OCR)
+```
+
+For Sublime Text:
+```markdown
+[Open in Sublime Text](subl://clone?url=https://github.com/Rohan-Gautam/Object-Detection-and-OCR)
+```
+
+For Atom:
+```markdown
+[Open in Atom](atom://clone?url=https://github.com/Rohan-Gautam/Object-Detection-and-OCR)
+```
+
+For Notepad++:
+```markdown
+[Open in Notepad++](notepad++://open?url=https://github.com/Rohan-Gautam/Object-Detection-and-OCR)
+```
+
+For Visual Studio:
+```markdown
+[Open in Visual Studio](https://github.com/Rohan-Gautam/Object-Detection-and-OCR)
+```
+
+These links will open the respective text editors (if installed) and prompt the user to clone your repository. If the text editor is not installed or properly configured, it may not work as expected.
+
+
 ✨ Happy coding! ✨
