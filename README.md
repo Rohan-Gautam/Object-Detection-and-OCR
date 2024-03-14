@@ -61,11 +61,11 @@ Unlock the potential of **Object Detection and OCR** for various purposes:
 
 Here's a glimpse of the astounding capabilities of our project:
 
-![Object Detection - Bottle](path/to/bottle_detection.png)
+![Object Detection - Bottle](images/Bottle.png)
 
 Witness the object detection prowess as it successfully identifies a bottle on the table. The bounding box elegantly outlines the bottle's location in the image.
 
-![Object Detection - Person](path/to/person_detection.png)
+![Object Detection - Person](images/Person's-Hand.png)
 
 Behold as the algorithm detects a person's hand in the scene. The bounding box impeccably delineates the precise location of the detected person.
 
