@@ -1,16 +1,16 @@
-✨ **Object Detection and OCR** ✨
+# ✨ Object Detection and OCR ✨
 
 [![🚀 Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Rohan-Gautam/Object-Detection-and-OCR/actions)
 
 ## 🌟 Overview 🌟
 
-This project implements real-time object detection using the YOLO algorithm and Optical Character Recognition (OCR) using Tesseract. It provides a simple and efficient way to detect objects in images or video streams and extract text from them. 📸
+Welcome to **Object Detection and OCR**! This project implements real-time object detection using the powerful YOLO algorithm and Optical Character Recognition (OCR) using Tesseract. It provides an intuitive and efficient solution to detect objects in images or video streams and extract text from them. 📸
 
-Key features include: 🛠️
+### Key Features 🛠️
 
-- Real-time object detection using YOLOv8n pre-trained model. 🖼️
-- Optical Character Recognition (OCR) using Tesseract for text extraction. 📝
-- Support for live webcam feed for both object detection and OCR. 📹
+- **Real-time Object Detection:** Utilizes YOLOv8n pre-trained model for robust and swift object detection.
+- **Optical Character Recognition (OCR):** Employs Tesseract to accurately extract text from images.
+- **Live Webcam Feed Support:** Enjoy seamless object detection and OCR on live webcam feed.
 
 ## 💻 Installation 💻
 
@@ -50,5 +50,24 @@ Key features include: 🛠️
 
      This script will extract text from objects detected in the webcam feed. 📄
 
+## Usage
 
-✨ Happy coding! ✨
+Unlock the potential of **Object Detection and OCR** for various purposes:
+
+- Use the `object_detection.py` script to perform real-time object detection.
+- Leverage the `ocr.py` script to extract text from detected objects in the live webcam feed.
+
+## Example Output
+
+Here's a glimpse of the astounding capabilities of our project:
+
+![Object Detection - Bottle](path/to/bottle_detection.png)
+
+Witness the object detection prowess as it successfully identifies a bottle on the table. The bounding box elegantly outlines the bottle's location in the image.
+
+![Object Detection - Person](path/to/person_detection.png)
+
+Behold as the algorithm detects a person's hand in the scene. The bounding box impeccably delineates the precise location of the detected person.
+
+✨ Happy coding and exploring! ✨
+```
