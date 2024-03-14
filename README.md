@@ -70,4 +70,3 @@ Witness the object detection prowess as it successfully identifies a bottle on t
 Behold as the algorithm detects a person's hand in the scene. The bounding box impeccably delineates the precise location of the detected person.
 
 ✨ Happy coding and exploring! ✨
-```
