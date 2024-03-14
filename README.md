@@ -2,6 +2,11 @@
 
 [![🚀 Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Rohan-Gautam/Object-Detection-and-OCR/actions)
 
+[![MIT License](https://img.shields.io/github/license/Rohan-Gautam/Object-Detection-and-OCR?color=blue)](https://github.com/Rohan-Gautam/Object-Detection-and-OCR/blob/main/LICENSE)
+
+
+
+
 ## 🌟 Overview 🌟
 
 Welcome to **Object Detection and OCR**! This project implements real-time object detection using the powerful YOLO algorithm and Optical Character Recognition (OCR) using Tesseract. It provides an intuitive and efficient solution to detect objects in images or video streams and extract text from them. 📸
