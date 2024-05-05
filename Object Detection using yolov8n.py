@@ -7,7 +7,7 @@ cap.set(3, 640)
 cap.set(4, 480)
 
 # model
-model = YOLO("yolov9n.pt")
+model = YOLO("yolov8n.pt")
 
 # object classes
 classNames = ["person", "bicycle", "car", "motorbike", "aeroplane", "bus", "train", "truck", "boat",
